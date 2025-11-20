@@ -1,0 +1,82 @@
+# IDE
+#
+## Visual Studio
+# User-specific files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build Results
+#
+## Binaries and build directories
+/*/[Bb]in/
+/*/[Oo]bj/
+/*/[Dd]ebug/
+/*/[Rr]elease/
+/*/[Aa]rm/[Dd]ebug/
+/*/[Aa]rm/[Rr]elease/
+/*/[Xx]64/[Dd]ebug/
+/*/[Xx]64/[Rr]elease/
+/*/[Xx]86/[Dd]ebug/
+/*/[Xx]86/[Rr]elease/
+*.[Cc]ode[Cc]leanup
+
+# Output folder
+/Output/
+
+## Package files
+*.nupkg
+*.snupkg
+# NuGet packages folder (often created at solution or project level)
+packages/
+# Dependency caching/restoration files
+*.intellisense.xml
+
+# Test Results
+#
+## VSTest logs and results
+*.trx
+*.dll.config
+# MSTest cache
+.teststore/
+
+# Local Settings, Logs, and Data
+#
+## Log files, PDB files, and temporary build data
+*.log
+*.pdb
+*.dll.tdb
+
+## Resharper / Rider settings
+*.DotSettings.user
+.idea/
+
+## SQL Server and EF Core migrations files
+*.mdf
+*.ldf
+*.publish.xml
+
+## Local app settings (Exclude local development settings that contain secrets)
+appsettings.Development.json
+appsettings.Local.json
+
+# Tooling and Dependency Management
+#
+## Node.js / npm (for projects like Blazor/ASP.NET Core with client-side code)
+node_modules/
+
+## Web project dependencies (e.g., Bower)
+bower_components/
+
+# Visual Studio Code
+#
+## User-specific VS Code settings
+.vscode/
+
+# Temporary Files and Backups
+#
+# Visual Studio backup copies and other temp files
+*~
+*.bak
+*.tmp

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/00 - App/">
+    <Project Path="Atlas.AvailableOnTeams.App/Atlas.AvailableOnTeams.csproj" />
+  </Folder>
+  <Folder Name="/01 - Website/" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="setup.iss" />
+  </Folder>
+</Solution>
