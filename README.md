@@ -1,9 +1,9 @@
 # Available On Teams
 
-Sometimes the system expects you to be active even when you’re working quietly. So I built a tiny helper that keeps the lights green while I focus on the real stuff.
-This utility is designed to simulate periodic mouse activity in order to keep Microsoft Teams in an “Available” (green) state.
+Sometimes the system expects you to be active even when youï¿½re working quietly. So I built a tiny helper that keeps the lights green while I focus on the real stuff.
+This utility is designed to simulate periodic mouse activity in order to keep Microsoft Teams in an ï¿½Availableï¿½ (green) state.
 After installation, the application starts by minimizing all open windows, positioning the cursor at the center of the screen, and then performing continuous, automated mouse movements and clicks. 
-The behavior is subtle, lightweight, and fully automatic, ensuring the system remains active without user intervention. 
+The behavior is subtle, lightweight, and fully automatic, ensuring the system remains active without user intervention.
 
 ## Instructions
 
@@ -21,13 +21,13 @@ To build and run the "Available On Teams" application from source, follow these 
 - Run the generated executable to start the application (or use Inno Setup to create an installer).
 
 ## Requirements
+
 - Windows Operating System
 
-## TODOs:
+## TODOs
 
 - [ ] set custom interval time and movement distance
-- [ ] add howto section with screenshots in the website
-- [ ] check setup icon 
+- [ ] check setup icon
 
 ## Support me
 
